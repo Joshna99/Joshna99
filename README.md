@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👩‍💻 Data Explorer & Visualization Enthusiast 📊✨
 
-<!--
-**Joshna99/Joshna99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Joshna Maligireddy, a passionate data enthusiast with a keen interest in data visualization. I thrive on transforming raw data into meaningful insights that tell compelling stories. I am actively seeking opportunities in the field of data visualization to contribute my skills and creativity.
 
-Here are some ideas to get you started:
+## 🧙‍♂️ Skills and Spells
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Data Analysis Tools**: Conjuring insights with Excel, Python (Pandas, NumPy, Scikit Learn, Seaborn, Matplotlib), and SQL.
+- 📈 **Visualization Wands**: Crafting stories with Tableau and PowerBI.
+
+## ✨ Fun Projects
+
+Check out some of the cool projects I've been cooking up:
+
+- [Project 1: 🚀 Brief description and link]
+- [Project 2: 🌟 Brief description and link]
+- [Project 3: 💡 Brief description and link]
+
+
+
+
+## 📬 Contact
+
+- 📫 How to reach me: joshnamaligireddy@gmail.com
